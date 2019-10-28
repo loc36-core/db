@@ -1,2 +1,1 @@
-# db
-Loc 36 Database and SDS schema
+# db: "Loc 36 DB" schema
