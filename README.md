@@ -1,1 +1,1 @@
-# db: "Loc 36 DB" schema
+# db: "Loc 36 DB" Schema
